@@ -1,5 +1,3 @@
 # freeorion-server-docker
 
-Docker Compose and Dockerfile to build and run a FreeOrion headless game server.
-
-This does not work yet.
+Moved to [https://github.com/magnusviri/dockerfiles/tree/main/freeorion](https://github.com/magnusviri/dockerfiles/tree/main/freeorion).
